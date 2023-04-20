@@ -5,7 +5,8 @@ This repository is for sharing and you are welcome to use these shapefiles and a
 
 - For European tree species, I recommend to download 
   - The "Chorological data for the main European woody" from Caudullo et al. (2020) species https://data.mendeley.com/datasets/hr5h2hcgg4/15 , 
-  - Or the distributions maps from EUFORGEN https://www.euforgen.org/
+  - The EUFORGEN distributions maps of european tree species https://www.euforgen.org/
+  - The points of occurrence of many species in Europe https://figshare.com/articles/dataset/Occurrences_location_shapefile/3497891
 
 - For North American tree species, I recommend 
   - The https://github.com/wpetry/USTreeAtlas repository of the "Atlas of United States Trees" by Elbert L. Little, Jr.
